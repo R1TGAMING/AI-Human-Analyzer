@@ -8,10 +8,10 @@ Websites That Predict Your Text Is Written By AI or Human
 
 # Screenshot
 
-![Image1](./images/Image_1.jpg)
-![Image2](./images/image_2.jpg)
-![Image3](./images/image_3.jpg)
-![Image4](./images/image_4.jpg)
+<img src="./images/Image_1.jpg" alt="image" width="400"/>
+<img src="./images/image_2.jpg" alt="image" width="400"/>
+<img src="./images/image_3.jpg" alt="image" width="400"/>
+<img src="./images/image_4.jpg" alt="image" width="400"/>
 
 # 🌍 Language
 
